@@ -168,3 +168,4 @@ public/locales/**/*.js
 deployment_tools_config.json
 
 yarn.lock
+.yarnrc.yml
